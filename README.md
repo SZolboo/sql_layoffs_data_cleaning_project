@@ -5,6 +5,8 @@ To shed light on this unfolding phenomenon and facilitate deeper analysis, the L
 
 SQL Queries 🔎 Please check them out here: [sql_queries](/data_cleaning.sql)
 
+You can access the dataset on Kaggle [dataset](<https://www.kaggle.com/datasets/swaptr/layoffs-2022>).
+
 # Background
 Tech firms globally are grappling with the repercussions of economic downturns precipitated by factors such as: 
 
